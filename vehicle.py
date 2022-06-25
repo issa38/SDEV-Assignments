@@ -1,4 +1,8 @@
-# M3 Lab
+# Isaiah Moragne
+# vehicle.py
+# This program takes in user input and outputs a text block of the user input. It is entirely done using classes and a super classes.
+
+#  M3 Lab
 # Example of the output for this file:
 #  Vehicle type: Car
 #  Year: 1990

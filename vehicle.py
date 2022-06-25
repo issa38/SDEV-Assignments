@@ -1,4 +1,11 @@
 # M3 Lab
+# Example of the output for this file:
+#  Vehicle type: Car
+#  Year: 1990
+#  Model: Miata
+#  Make: Mazda
+#  Number of Doors: 2
+#  Type of roof: Droptop
 
 # Creating a Super class.
 class Vehicle():
